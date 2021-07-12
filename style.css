@@ -1,0 +1,49 @@
+.name{
+    font-size: 3rem !important;
+    margin-bottom: 0rem !important;
+}
+
+.logo{
+    text-decoration: none;
+}
+.award-heading{
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+.year{
+    font-size: 10px;
+    margin: 0px;
+}
+/* footer section */
+.parag{
+    font-size: 12px;
+    margin-bottom: 0px;
+
+}
+.small-p{
+    font-size: 11px;
+    margin-top: 0px;
+}
+.footer-h{
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 3rem;
+}
+
+/* horizontal line */
+.hr-theme-slash-2 {
+    display: flex;
+}
+.hr-line {
+      width: 100%;
+      position: relative;
+      margin: 15px;
+      border-bottom: 1px solid #000;
+    }
+.hr-icon {
+      position: relative;
+    
+      top: 3px;
+      color:black;
+    }
+  
