@@ -8,6 +8,10 @@
 }
 .char-length{
 max-width: 45ch;
+    margin-left: 15rem;
+}
+.margin-left{
+margin-left: 15rem;
 }
 
 .logo{
