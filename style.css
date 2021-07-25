@@ -5,6 +5,10 @@
 }
 .name1{
     margin-bottom: 15rem !important;
+}
+.char-length{
+max-width: 45ch;
+}
 
 .logo{
     text-decoration: none;
