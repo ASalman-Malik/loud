@@ -1,7 +1,10 @@
 .name{
     font-size: 3rem !important;
     margin-bottom: 0rem !important;
+    margin-top: 15rem !important;
 }
+.name1{
+    margin-bottom: 15rem !important;
 
 .logo{
     text-decoration: none;
