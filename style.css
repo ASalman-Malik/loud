@@ -13,6 +13,10 @@ max-width: 45ch;
 .margin-left{
 margin-left: 15rem;
 }
+.image{
+margin: 3rem !important;
+    width: 13rem;
+}
 
 .logo{
     text-decoration: none;
